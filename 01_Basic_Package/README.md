@@ -31,4 +31,11 @@ pip install pygame
 python project/{file_name}.py
 ```
 
+### Turtle
+- [Turtle_Basic1](./progress/Basic_08.md)
 
+#### Usage
+```python
+### 예제 실행 (12 ~ 15)
+python project/{file_name}.py
+```
