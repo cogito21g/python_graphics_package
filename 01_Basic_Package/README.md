@@ -51,3 +51,17 @@ pip install pillow
 ### 예제 실행 (16 ~ 19)
 python project/{file_name}.py
 ```
+
+### OpenCV
+- [OpenCV_Basic1](./progress/Basic_10.md)
+
+#### Usage
+```python
+### package 설치
+pip install opencv-python
+pip install opencv-contrib-python
+pip install opencv-python-headless # GUI가 없는 서버 패키지용
+
+### 예제 실행 (20 ~ 23)
+python project/{file_name}.py
+```
