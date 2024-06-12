@@ -39,3 +39,15 @@ python project/{file_name}.py
 ### 예제 실행 (12 ~ 15)
 python project/{file_name}.py
 ```
+
+### Pillow
+- [Pillow_Basic1](./progress/Basic_09.md)
+
+#### Usage
+```python
+### package 설치
+pip install pillow
+
+### 예제 실행 (16 ~ 19)
+python project/{file_name}.py
+```
