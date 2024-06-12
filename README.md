@@ -1,4 +1,4 @@
-# Python Graphics Packages
+# Python Graphics
 
 - Study Graphics Theory wiht Python Packages
 
@@ -8,3 +8,5 @@
 - Study about Matplotlib, Pygame, Turtle, Pillow, OpenCV
 - [link](./01_Basic_Package/)
 
+### 02. Basic Theory
+- 
